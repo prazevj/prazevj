@@ -1,5 +1,5 @@
 
-**Building Intelligent Systems*
+**Building Intelligent Systems**
 
 Hi, I'm Prasanna, a Data and AI Engineer passionate about harnessing the power of data and AI to drive innovation. With a strong background in data engineering and a keen interest in cutting-edge AI technologies, I'm dedicated to building scalable, efficient, and reliable systems that unlock new possibilities.
 
